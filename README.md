@@ -11,7 +11,7 @@ Script en Python qui utilise l'API d'OpenAI pour générer des images en fonctio
 ## Utilisation
 
 - Ouvrez le fichier `main.py` dans un éditeur
-- Remplacez `"VOTRE API ICI"` par votre propre clé API OpenAI
+- Remplacez `"VOTRE API ICI"` par votre propre clé API OpenAI *(ligne 34)*
 - Exécutez le script
 - Entrez un mot-clé 
 - L'image générée sera téléchargée sur votre ordinateur ^^
