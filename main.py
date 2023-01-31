@@ -31,7 +31,7 @@ def telechargemont(url, filename):
         with open(filename, 'wb') as f:
             f.write(response.content)
 
-VOTRE_API = "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"
+VOTRE_API = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX VOTRE API ICI XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 model = "image-alpha-001"
 
 prompt = input("Mot clé de l'image :")
