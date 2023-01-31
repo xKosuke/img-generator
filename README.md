@@ -5,7 +5,7 @@ Script en Python qui utilise l'API d'OpenAI pour générer des images en fonctio
 ## Prérequis
 
 - Modules : `requests` `json`
-- API de OpenAI ([openai.com](https://openai.com/))
+- API de votre compte OpenAI ([openai.com](https://openai.com/))
 - Python 3
 
 ## Utilisation
